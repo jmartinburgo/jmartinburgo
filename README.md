@@ -2,7 +2,7 @@
 ### A passionate Data Analyst from Cordoba, Argentina.
 - 🔭 I’m currently working as a Data Analyst - Data Scientist at [Market One    ](https://marketone.co/en/)
 - 💬 Ask me about **Power BI, Machine Learning, Deep Learning**
-- 📫 You can reach me at **jmartinburgo@hotmail.com**
+- 📫 You can reach me at **jmartinburgo@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
