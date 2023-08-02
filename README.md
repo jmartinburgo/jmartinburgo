@@ -13,4 +13,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" alt="powerbi" width="80" height="40"/> </a> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="sklearn" width="80" height="40"/> </a> </p>
 
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmartinburgo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jmartinburgo" /></p>-->
+<!-- -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmartinburgo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jmartinburgo" /></p>
