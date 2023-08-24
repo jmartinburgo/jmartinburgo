@@ -1,5 +1,5 @@
 ## Hi, I'm Juan Martin Burgo Mangiantini 
-### A passionate Data Analyst from Cordoba, Argentina.
+### A passionate Data Analyst/Data Scientis from Cordoba, Argentina.
 - 🔭 I’m currently working as a Data Analyst - Data Scientist at [Market One    ](https://marketone.co/en/)
 - 💬 Ask me about **Power BI, Machine Learning, Deep Learning**
 - 📫 You can reach me at **jmartinburgo@gmail.com**
